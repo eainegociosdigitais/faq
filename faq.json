@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "slug": "como-acessar-o-ava",
+    "description": "O ambiente virtual de aprendizagem do aluno (AVA) pode ser acessado pelo computador ou por dispositivos moveis utilizando o aplicativo LeoApp",
+    "question": "Como acessar meu Ambiente Virtual de Aprendizagem - AVA?",
+    "answer": "O ambiente virtual de aprendizagem do aluno (AVA) pode ser acessado pelo computador ou por dispositivos moveis utilizando o aplicativo LeoApp:\n\n- Acesso Desktop:  [https://areasegura.uniasselvi.com.br/](https://areasegura.uniasselvi.com.br/)\n- LeoApp para Android: [https://play.google.com/store/apps/details?id=com.uniasselvi.leonardo&hl=pt_BR&pli=1](https://play.google.com/store/apps/details?id=com.uniasselvi.leonardo&hl=pt_BR&pli=1)\n- Leo App para IOS: [https://apps.apple.com/br/app/uniasselvi-leo-app/id1178957336](https://apps.apple.com/br/app/uniasselvi-leo-app/id1178957336)\n\n> Lembre-se: O primeiro acesso do aluno é realizado com o seu CPF e a senha é sua data de nascimento.",
+    "tags": ["acesso", "ava", "aplicativo", "leoapp"],
+    "categories": ["Geral", "Suporte Técnico"]
+  }
+]
