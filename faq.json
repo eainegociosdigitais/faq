@@ -79,14 +79,13 @@
   },
   {
     "id": 6,
-    "slug": "atividade-de-aprendizagem",
-    "description": "Entenda o que é a Atividade de Aprendizagem, sua importância e como realizá-la passo a passo para garantir um melhor desempenho acadêmico.",
-    "question": "O que é a Atividade de Aprendizagem e como realizá",
-    "answer": "__Atividade de Aprendizagem__\n\nA Atividade de Aprendizagem é uma ferramenta importante para reforçar seu conhecimento nas disciplinas, por meio de um __simulado com 10 questões__, elaborado por nossa equipe de professores. Você pode realizar essa atividade __até 20 vezes__ e, além de aprimorar seu aprendizado, ainda pode adicionar até __0,5 ponto bônus__ na média final da disciplina. Vamos aprender como realizá-la!\n\n__Desktop__\n\n1 - Após acessar seu AVA, entre na disciplina que gostaria de realizar a atividade de aprendizagem\n![Passo 1](https://github.com/eainegociosdigitais/faq/blob/main/1.png?raw=true)\n\n2 - Clique em Atividade de Aprendizagem\n![Passo 2](https://github.com/eainegociosdigitais/faq/blob/main/atividade%20de%20aprendizagem.png?raw=true)\n\n3 - Nessa tela você poderá acompanhar a quantidade de tentativas restantes, a pontuação já adquirida e também iniciar a realização da atividade de aprendizagem, como demonstrado na imagem abaixo \n![Passo 3](https://github.com/eainegociosdigitais/faq/blob/main/responder%20atividade.png?raw=true)\n\n__Celular via __LeoApp____\n\n1 - Após acessar seu AVA, entre na disciplina que gostaria de realizar a atividade de aprendizagem\n![Passo 1](https://github.com/eainegociosdigitais/faq/blob/main/acessar%20disciplina%20celular.jpg?raw=true)\n\n2 - Acesse __Atividade de Aprendizagem__\n![Passo 2](https://github.com/eainegociosdigitais/faq/blob/main/atividade%20de%20aprendizagem%20pelo%20celular.jpg?raw=true)\n\n3 - Nessa tela você poderá acompanhar a quantidade de tentativas restantes, a pontuação já adquirida e também iniciar a realização da atividade de aprendizagem, como demonstrado na imagem abaixo \n![Passo 3](https://github.com/eainegociosdigitais/faq/blob/main/Captura%20de%20tela%202025-03-29%20200504.png?raw=true)\n\n__Para saber Mais:__\n*Dinâmica de Provas:* [Clique para acessar](https://central-de-ajuda-uniasselvi.vercel.app/provas)\n\n",
+    "slug": "provas",
+    "description": "Entenda o formato das provas, os tipos de questões e as regras para realização, garantindo um melhor preparo para suas avaliações.",
+    "question": "Como funciona a dinâmica das provas?",
+    "answer": "__Dinâmica das Provas__\n\nAs provas são parte essencial da sua avaliação acadêmica e seguem uma dinâmica específica, incluindo formatos de questões e regras para sua realização. Compreender esse processo ajuda você a se preparar melhor e garantir um bom desempenho. __Vamos entender como funciona!__\n\n1. Provas Objetivas (AV1 e AV2):\n   - Realizadas online através do __Ambiente Virtual de Aprendizagem (AVA).__\n   - AV1: 10 questões, liberada a partir do __segundo encontro__.\n   - AV2: 10 questões, liberada a partir do __terceiro encontro__.\n\n2. Prova Dissertativa (AV3):\n   - Também realizada online pelo AVA.\n   - Contém __2 questões dissertativas.__\n   - Liberada a partir do terceiro encontro.\n\n3. Prova Agendada (AV4):\n   - Única __prova presencial,__ realizada no polo.\n   - Contém 10 questões objetivas.\n   - O aluno deve agendar __conforme o calendário disponível__ no polo.\n\n__Para saber Mais:__\n\n*Como faço para agendar minha avaliação?* [Clique para acessar](https://central-de-ajuda-uniasselvi.vercel.app/agendar-avaliacao)\n\n*Como visualizar o meu calendário?* [Clique para acessar](https://central-de-ajuda-uniasselvi.vercel.app/calendario)",
     "tags": [
       "EAD",
-      "Provas",
-      "Atividade de aprendizagem"
+      "Provas"
     ],
     "categories": [
       "Geral"
