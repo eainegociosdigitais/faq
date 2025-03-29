@@ -5,6 +5,39 @@
     "description": "O ambiente virtual de aprendizagem do aluno (AVA) pode ser acessado pelo computador ou por dispositivos moveis utilizando o aplicativo LeoApp",
     "question": "Como acessar meu Ambiente Virtual de Aprendizagem - AVA?",
     "answer": "O ambiente virtual de aprendizagem do aluno (AVA) pode ser acessado pelo computador ou por dispositivos moveis utilizando o aplicativo LeoApp:\n\n- Acesso Desktop:  [https://areasegura.uniasselvi.com.br/](https://areasegura.uniasselvi.com.br/)\n- LeoApp para Android: [https://play.google.com/store/apps/details?id=com.uniasselvi.leonardo&hl=pt_BR&pli=1](https://play.google.com/store/apps/details?id=com.uniasselvi.leonardo&hl=pt_BR&pli=1)\n- Leo App para IOS: [https://apps.apple.com/br/app/uniasselvi-leo-app/id1178957336](https://apps.apple.com/br/app/uniasselvi-leo-app/id1178957336)\n\n> Lembre-se: O primeiro acesso do aluno é realizado com o seu CPF e a senha é sua data de nascimento.",
+    "tags": [
+      "acesso",
+      "ava",
+      "aplicativo",
+      "leoapp"
+    ],
+    "categories": [
+      "Geral",
+      "Suporte Técnico"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "metodologia",
+    "description": "Metodologia acadêmica aplicada aos cursos de graduação na modalidade EAD Flex",
+    "question": "Como funciona a dinâmica de ensino da UNIASSELVI?",
+    "answer": "Na __UNIASSELVI__, o aluno conta com sua __Trilha de Aprendizagem__, a principal fonte de informações acadêmicas. Nela, estão disponíveis recursos didáticos interativos e dinâmicos que auxiliam nos estudos, organizando e guiando o processo de ensino por meio de uma sequência estruturada de atividades e materiais, voltados para o alcance de objetivos específicos.\n\nAlém disso, dentro do aplicativo, o aluno tem acesso ao __livro digital__, que aprofunda ainda mais o conteúdo abordado.\n\nSemanalmente, acontece o __encontro ao vivo__ com o __professor especialista__ e o __professor mediador__, uma oportunidade para aprofundar os temas estudados e esclarecer dúvidas.\n\n__📌 Importante:__ A participação nos encontros não é obrigatória, mas é altamente recomendada para que o aluno possa esclarecer suas dúvidas e potencializar seu aprendizado.\n\n---\n",
+    "tags": [
+      "Metodologia",
+      "Dinâmica de Ensino",
+      "EAD Flex"
+    ],
+    "categories": [
+      "Geral"
+    ]
+  }
+][
+  {
+    "id": 1,
+    "slug": "como-acessar-o-ava",
+    "description": "O ambiente virtual de aprendizagem do aluno (AVA) pode ser acessado pelo computador ou por dispositivos moveis utilizando o aplicativo LeoApp",
+    "question": "Como acessar meu Ambiente Virtual de Aprendizagem - AVA?",
+    "answer": "O ambiente virtual de aprendizagem do aluno (AVA) pode ser acessado pelo computador ou por dispositivos moveis utilizando o aplicativo LeoApp:\n\n- Acesso Desktop:  [https://areasegura.uniasselvi.com.br/](https://areasegura.uniasselvi.com.br/)\n- LeoApp para Android: [https://play.google.com/store/apps/details?id=com.uniasselvi.leonardo&hl=pt_BR&pli=1](https://play.google.com/store/apps/details?id=com.uniasselvi.leonardo&hl=pt_BR&pli=1)\n- Leo App para IOS: [https://apps.apple.com/br/app/uniasselvi-leo-app/id1178957336](https://apps.apple.com/br/app/uniasselvi-leo-app/id1178957336)\n\n> Lembre-se: O primeiro acesso do aluno é realizado com o seu CPF e a senha é sua data de nascimento.",
     "tags": ["acesso", "ava", "aplicativo", "leoapp"],
     "categories": ["Geral", "Suporte Técnico"]
   }
