@@ -49,14 +49,13 @@
   },
   {
     "id": 4,
-    "slug": "navegar-trilha-de-aprendizagem",
-    "description": "Aprenda a acessar e explorar sua trilha de aprendizagem de forma prática e fácil.",
-    "question": "Como navegar pela trilha de aprendizagem?",
-    "answer": "__Como navegar pela trilha de aprendizagem?__\n\nBem-vindo à sua trilha de aprendizagem! Aqui, exploraremos conteúdos e atividades essenciais para o seu desenvolvimento acadêmico.\n\n1 - Acesse o menu lateral\n![Passo 1: Acessa o menu lateral superios](https://raw.githubusercontent.com/eainegociosdigitais/faq/refs/heads/main/Captura%20de%20tela%202025-03-29%20114848%20copiar.png)\n\n2 - Acesse a unidade que deseje estudar\n\n![Passo 2: Acesse as unidades](https://raw.githubusercontent.com/eainegociosdigitais/faq/refs/heads/main/6.png)\n\n__Importante__\n![Dinâmica das Aulas ao Vivo](https://raw.githubusercontent.com/eainegociosdigitais/faq/refs/heads/main/Captura%20de%20tela%202025-03-29%20120553.png)\n\n__Para Saber Mais__\n*Dinâmica de Provas:* [Clique para acessar](https://central-de-ajuda-uniasselvi.vercel.app/provas)\n\n*Como acessar minha trilha de aprendizagem?:* [Clique para acessar](https://central-de-ajuda-uniasselvi.vercel.app/trilha-de-aprendizagem)",
+    "slug": "material-didatico",
+    "description": "Descubra como solicitar e adquirir os livros físicos das disciplinas do seu curso.",
+    "question": "Como adquirir meu material didático impresso?",
+    "answer": "__MATERIAL DIDÁTICO__\n\nOs livros físicos __complementam sua aprendizagem __e podem ser adquiridos de forma prática. Por meio do ambiente virtual, você pode solicitar o kit de livros do semestre, que inclui os exemplares das suas disciplinas, pelo valor de __R$ 200,00.__ Assim, você enriquece seus estudos e fortalece seu aprendizado!\n\n__Desktop__\n\n1 - Após entrar no seu AVA, clique em atendimento no menu lateral\n![Passo 1](https://raw.githubusercontent.com/eainegociosdigitais/faq/refs/heads/main/atendimento.png)\n\n2 - Clique em Novo Atendimento\n![Passo 2](https://raw.githubusercontent.com/eainegociosdigitais/faq/refs/heads/main/novo%20atendimento.png)\n\n3 - Clique em Material Didático > Envio Material Didático Impresso - Semestral\n![Passo 3](https://github.com/eainegociosdigitais/faq/blob/main/material%20didtaico.png?raw=true)\n\n4 -  Após isso será necessário __confirmar o endereço de entrega__ que o Material Didático deve ser entregue. Após finalizar a solicitação você deverá __acessar a sua ABA de financeiro__ e efetuar o pagamento.\n\n__Celular via __LeoApp____\n\n1 - Após entrar no seu AVA - LeoApp, clique em Atendimento no menu\n![alt text](https://github.com/eainegociosdigitais/faq/blob/main/atendimento%20celular.jpg?raw=true)\n\n2 - Clique em __Novo Atendimento__\n![Passo 2](https://github.com/eainegociosdigitais/faq/blob/main/novo%20atendimento%20celular.jpg?raw=true)\n\n3 - Clique em __Material Didático__\n![Passo 3](https://github.com/eainegociosdigitais/faq/blob/main/material%20didatico%20celular.jpg?raw=true)\n\n4 - Clique em Envio Material __Didático Impresso - Semestral__\n![Passo 4](https://github.com/eainegociosdigitais/faq/blob/main/envio%20material%20celular.jpg?raw=true)\n\n5 - Após isso será necessário __confirmar o endereço de entrega__ que o Material Didático deve ser entregue. Após finalizar a solicitação você deverá __acessar a sua ABA de financeiro__ e efetuar o pagamento.\n\n\n__Para saber Mais:__\n\n*Como acessar o meu AVA/LeoApp?* \n[Clique para acessar](https://central-de-ajuda-uniasselvi.vercel.app/como-acessar-o-ava)\n*Como efetuar pagamento de boletos* [Clique para acessar](https://central-de-ajuda-uniasselvi.vercel.app/pagamentos-boletos)\n\n",
     "tags": [
-      "Metodologia",
-      "Trilha de aprendizagem",
-      "Trilha"
+      "Livro",
+      "Material didático"
     ],
     "categories": [
       "Geral"
