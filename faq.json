@@ -90,5 +90,19 @@
     "categories": [
       "Geral"
     ]
+  },
+  {
+    "id": 7,
+    "slug": "agendar-avaliacao",
+    "description": "Saiba como agendar sua avaliação final presencial de forma simples e rápida, garantindo que você esteja preparado para a prova.",
+    "question": "Como agendar minha avaliação final presencial?",
+    "answer": "__AGENDAR AVALIAÇÃO__\n\nAgendar sua avaliação final presencial é um passo importante para concluir sua disciplina. Aqui, explicamos o processo para que você possa agendar corretamente e se organizar para a prova. __Vamos aprender como fazer isso!__\n\n__Desktop__\n1 - Clique na disciplina que deseja agendar a prova \n\n![Passo 1](https://github.com/eainegociosdigitais/faq/blob/main/disciplina.png?raw=true)\n\n2 - Clique no botão de agendar prova\n![Passo 2](https://github.com/eainegociosdigitais/faq/blob/main/agendar%20prova.png?raw=true)\n\n3 - Escolha o dia e horário que deseja realizar a sua avaliação  \n![Passo 3](https://github.com/eainegociosdigitais/faq/blob/main/d%20agendar%20prova.png?raw=true)\n\n__Celular __via LeoApp____\n\n1 - Clique na disciplina que deseja agendar a prova \n![Passo 1](https://github.com/eainegociosdigitais/faq/blob/main/acessar%20disciplina%20celular.jpg?raw=true)\n\n2 - Clique no botão de agendar prova\n![Passo 2](https://github.com/eainegociosdigitais/faq/blob/main/c%20agendar.jpg?raw=true)\n\n3 - Escolha o dia e horário que deseja realizar a sua avaliação  \n![Passo 3](https://github.com/eainegociosdigitais/faq/blob/main/ce%20dia%20e%20hora.jpg?raw=true)\n\n__Para saber Mais:__\n*Como efetuar pagamento de boletos* [Clique para acessar](https://central-de-ajuda-uniasselvi.vercel.app/pagamentos-boletos)\n\n*Como funciona a dinâmica das provas?* \n[Clique para acessar](https://central-de-ajuda-uniasselvi.vercel.app/provas)",
+    "tags": [
+      "EAD",
+      "Provas"
+    ],
+    "categories": [
+      "Geral"
+    ]
   }
 ]
