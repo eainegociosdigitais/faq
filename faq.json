@@ -104,5 +104,19 @@
     "categories": [
       "Geral"
     ]
+  },
+  {
+    "id": 8,
+    "slug": "encontros-ao-vivo",
+    "description": "Aprenda a acessar e participar das suas aulas com o professor através do Microsoft Teams, garantindo uma experiência de aprendizado eficaz.",
+    "question": "Como acessar minha aula no Microsoft Teams?",
+    "answer": "__Acessar Encontro ao Vivo__\n\nO Microsoft Teams é a plataforma onde você pode assistir suas aulas ao vivo com os professores. Aqui, explicamos o passo a passo para entrar nas aulas e aproveitar o conteúdo de forma interativa. Vamos aprender a acessar sua aula!\n\n__Desktop__\n1 - Após logar no Microsoft Teams com __seu e-mail institucional__ essa será a tela abaixo\n![Passo 1](https://github.com/eainegociosdigitais/faq/blob/main/Captura%20de%20tela%202025-03-29%20210038.png?raw=true)\n\n2 - No menu lateral clique em calendário\n![Passo 2](https://github.com/eainegociosdigitais/faq/blob/main/d%20calendario.png?raw=true)\n\n3 - No dia e horário da sua aula terá um evento agendado indicado na imagem abaixo pela seta, __clique no evento.__\n\n![Passo 3](https://github.com/eainegociosdigitais/faq/blob/main/d%20evento.png?raw=true)\n\n4 - No dia e horario da sua aula que no caso do exemplo é das 19:00 – 20:30 clique em __entrar.__\n![Passo 4](https://github.com/eainegociosdigitais/faq/blob/main/d%20entrar.png?raw=true)\n\n__Celular__\n\n1 - Após logar no Microsoft Teams com __seu e-mail institucional__ clique em calendário \n![Passo 1](https://github.com/eainegociosdigitais/faq/blob/main/c%20acesso%20teams.jpg?raw=true)\n\n2 - No dia e horário da sua aula terá um evento agendado indicado na imagem abaixo pela seta, __clique no evento.__\n\n![Passo 2](https://github.com/eainegociosdigitais/faq/blob/main/c%20evento.jpg?raw=true)\n\n3 - No dia e horario da sua aula que no caso do exemplo é das 20:30 – 22:00 clique em __entrar.__\n\n![Passo 3](https://github.com/eainegociosdigitais/faq/blob/main/c%20entrar.jpg?raw=true)\n\n__Para saber Mais:__\n*Não consigo logar com minha conta institucional* [Clique para acessar](\nhttps://central-de-ajuda-uniasselvi.vercel.app/dificuldade-logar-teams)\n\n*Como as aulas gravadas* [Clique para acessar](https://central-de-ajuda-uniasselvi.vercel.app/aulas-gravadas)\n\n*Como efetuar pagamento de boletos* [Clique para acessar](https://central-de-ajuda-uniasselvi.vercel.app/pagamentos-boletos)",
+    "tags": [
+      "EAD",
+      "Aulas"
+    ],
+    "categories": [
+      "Geral"
+    ]
   }
 ]
