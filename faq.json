@@ -118,5 +118,20 @@
     "categories": [
       "Geral"
     ]
+  },
+  {
+    "id": 9,
+    "slug": "simular-media",
+    "description": "Entenda como é feito o cálculo da sua média, considerando as notas das atividades, provas e outros critérios avaliativos definidos no curso.",
+    "question": "Como é realizado o cálculo da minha média? ",
+    "answer": "__Como é realizado o cálculo da minha média?__\n\nNa UNIASSELVI, a média é calculada de __forma ponderada__, ou seja, cada avaliação possui um __peso específico__ que contribui de maneira diferente para a sua média final. Esse cálculo é realizado automaticamente pelo sistema, levando em consideração os diferentes tipos de provas e atividades que você realiza ao longo do semestre.\n\nO cálculo da média final é feito da seguinte forma:\n\n__Média Final__ = [(NOTA AV1 * 2,0) + (NOTA AV2 * 2,0) + (NOTA DISSERTATIVA * 2,0) + (NOTA OBJETIVA * 4,0)] / 10\n\nIsso significa que a __nota da prova objetiva tem um peso maior (4,0)__  em relação às outras avaliações, como a AV1, AV2 e a dissertação (com peso 2,0 cada). O total de pontos de todas essas avaliações será somado e dividido por 10 para obter a sua nota final.\n\nAlém disso, você pode usar o __simulador de média__ para prever como suas notas podem impactar sua média final. Com ele, você pode simular diferentes cenários e ver como suas notas nas avaliações afetam a média. Isso ajuda a planejar melhor seus estudos e acompanhar seu desempenho ao longo do semestre.\n\n__Para saber Mais:__\n*Como acessar o simulador de média?* [Clique para acessar](https://central-de-ajuda-uniasselvi.vercel.app/media\n\n*Como faço para agendar minha avaliação?* [Clique para acessar](https://central-de-ajuda-uniasselvi.vercel.app/agendar-avaliacao)",
+    "tags": [
+      "EAD",
+      "Provas",
+      "Média"
+    ],
+    "categories": [
+      "Geral"
+    ]
   }
 ]
