@@ -173,5 +173,19 @@
       "Reposição de Disciplina"
     ],
     "categories": []
+  },
+  {
+    "id": 13,
+    "slug": "como-realizo-o-pagamento-da-minha-mensalidade",
+    "description": "Aprenda como acessar e pagar sua mensalidade sem erros",
+    "question": "Como realizo o pagamento da minha mensalidade?",
+    "answer": "__Reposição de Disciplinas__\n\nPagar a mensalidade em dia é fundamental para manter seu vínculo ativo com a instituição. Veja o passo a passo para ____realizar o pagamento.____\n\n__Desktop__\n1 - Ao acessar o AVA, clique na opção 'Financeiro'\n![Passo 1](https://github.com/eainegociosdigitais/faq/blob/main/financeiro%201.png?raw=true)\n\n2 - Nesta tela, você poderá visualizar as próximas mensalidades do semestre, juntamente com a data de vencimento de cada parcela. Também é possível emitir as notas fiscais das parcelas já pagas.\n\nClique em __'Abrir Título'__  para realizar o pagamento.\n\n![Passo 2](https://github.com/eainegociosdigitais/faq/blob/main/financeiro%202.png?raw=true)\n\n3 - Ao clicar em 'Abrir título', serão exibidas todas as formas de pagamento disponíveis. Você poderá pagar via boleto, Pix ou até mesmo com cartão de débito ou crédito.\n![Passo 3](https://github.com/eainegociosdigitais/faq/blob/main/financeiro%203.png?raw=true)\n\n__Celular Via LeoApp__\n\n1 - Ao acessar o aplicativo LeoApp, clique na opção 'Financeiro'\n![Passo 1](https://github.com/eainegociosdigitais/faq/blob/main/ce%20financeiro%201.jpeg?raw=true)\n\n2 - Na tela abaixo, você poderá visualizar os boletos em aberto, juntamente com as respectivas datas de vencimento. Clique sobre o título desejado para acessá-lo.\n![Passo 2](https://github.com/eainegociosdigitais/faq/blob/main/ce%20financeiro%202.jpeg?raw=true)\n\n3 - Serão exibidas todas as formas de pagamento disponíveis. Você poderá pagar via boleto, Pix ou até mesmo com cartão de débito ou crédito.\n![Passo 3](https://github.com/eainegociosdigitais/faq/blob/main/ce%20financeiro%203.jpeg?raw=true)",
+    "tags": [
+      "Pagamento",
+      "Financeiro"
+    ],
+    "categories": [
+      "Pagamentos"
+    ]
   }
 ]
