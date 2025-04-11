@@ -187,5 +187,19 @@
     "categories": [
       "Pagamentos"
     ]
+  },
+  {
+    "id": 14,
+    "slug": "atrasei-minhas-mensalidades-posso-renegociar",
+    "description": "Saiba como funciona o processo de renegociação de débitos",
+    "question": "Atrasei minhas mensalidades, posso renegociar?",
+    "answer": "__Renegociação __\n\nImprevistos podem acontecer, mas há alternativas para manter seus estudos em dia. Descubra como solicitar a renegociação das suas mensalidades em atraso.\n\n__Desktop__\n\n1 - Ao acessar o AVA, clique na opção 'Financeiro'\n![Passo 1](https://github.com/eainegociosdigitais/faq/blob/main/renegocia%C3%A7%C3%A3o%201.png?raw=true)\n\n2 - Nesta tela, você poderá visualizar todos os boletos em aberto. Ao clicar no botão \"Renegociar\", serão exibidas as opções disponíveis para negociação, válidas a partir de 3 mensalidades em atraso.\n\n![Passo 2](https://github.com/eainegociosdigitais/faq/blob/main/renegocia%C3%A7%C3%A3o%202.png?raw=true)\n\n__Celular via LeoApp__\n\n1 - Ao acessar o LeoApp, clique na opção 'Financeiro'\n ![Passo 1](https://github.com/eainegociosdigitais/faq/blob/main/ce%20financeiro%201.jpeg?raw=true)\n\n2 - Nesta tela, você poderá visualizar todos os boletos em aberto. Ao clicar no botão \"Renegociar\", serão exibidas as opções disponíveis para negociação, válidas a partir de 3 mensalidades em atraso.\n![Passo 2](https://github.com/eainegociosdigitais/faq/blob/main/ce%20renegocia%C3%A7%C3%A3o.jpg?raw=true)\n\n__Lembre-se:__ Caso precise de auxílio durante o processo, não hesite em entrar em contato com a equipe de atendimento do seu polo. Estamos aqui para te ajudar a continuar sua jornada com tranquilidade!",
+    "tags": [
+      "Financeiro",
+      "Renegociação"
+    ],
+    "categories": [
+      "Pagamentos"
+    ]
   }
 ]
