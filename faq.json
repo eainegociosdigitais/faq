@@ -148,5 +148,18 @@
     "categories": [
       "Geral"
     ]
+  },
+  {
+    "id": 11,
+    "slug": "perdi-uma-avaliacao-online-e-agora",
+    "description": "Saiba como funcionam as duas chamadas de avaliação e o que acontece se você perder os prazos das provas online ou presenciais.",
+    "question": "Perdi uma avaliação online. E agora?",
+    "answer": "Na UNIASSELVI, cada disciplina possui __duas chamadas de avaliação__.\n\nSe você perder o prazo da avaliação on-line na primeira chamada, deverá aguardar o período da segunda chamada. Durante esse período, a prova ficará novamente disponível no seu AVA/LeoApp.\n\nSe perder o prazo da __avaliação presencial__, será possível solicitar a reposição durante o período da segunda chamada. A reposição da __prova final tem um custo de R$ 50,00__.\n\n__Atenção:__ Caso perca também as avaliações da segunda chamada, não será mais possível realizar a prova da disciplina.",
+    "tags": [
+      "Provas",
+      "Avaliação",
+      "Prova Final"
+    ],
+    "categories": []
   }
 ]
