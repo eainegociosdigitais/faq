@@ -161,5 +161,17 @@
       "Prova Final"
     ],
     "categories": []
+  },
+  {
+    "id": 12,
+    "slug": "como-solicitar-reposicao-de-disciplina",
+    "description": "Descubra como solicitar a reposição de uma disciplina e fique em dia com seu curso.\n",
+    "question": "Como solicitar reposição de disciplina?",
+    "answer": "Em alguns momentos, pode ser necessário refazer uma disciplina para avançar na graduação. Veja como funciona o processo de solicitação.\n\n__Desktop__\n\n1 - Ao ingressar no seu aplicativo clique em \"Ajuste de Disciplina\"\n![Passo 1](https://github.com/eainegociosdigitais/faq/blob/main/ajuste%20de%20mensalidade.png?raw=true)\n\n2 - Selecione o módulo no qual deseja incluir a disciplina em sua grade. \n![Passo 2](https://github.com/eainegociosdigitais/faq/blob/main/ajuste%202.png?raw=true)\n\n3 - Observe que as disciplinas já cursadas estão sinalizadas com um marcador verde. As disciplinas que precisam ser repostas não possuem esse sinal. Clique no ícone '+' para incluir a disciplina na grade.\n![Passo 3](https://github.com/eainegociosdigitais/faq/blob/main/ajuste%203.png?raw=true)\n\n4 - Após essa etapa, serão exibidos o valor da disciplina, as formas de pagamento para a reposição e os dias das turmas disponíveis\n\n__Celular Via LeoApp__\n\n1 - Ao acessar o aplicativo, clique em 'Ver todos' para visualizar todas as funcionalidades disponíveis.\n![Passo 1](https://github.com/eainegociosdigitais/faq/blob/main/c%20ajuste%201.jpeg?raw=true)\n\n2 - Acesse \"Ajuste de Disciplinas\"\n![Passo 2](https://github.com/eainegociosdigitais/faq/blob/main/c%20ajuste%202.jpeg?raw=true)\n\n3 - Observe que os módulos com disciplinas pendentes ficam destacados em amarelo. Selecione o módulo no qual deseja repor a disciplina.\n![Passo 3](https://github.com/eainegociosdigitais/faq/blob/main/c%20ajuste%203.jpeg?raw=true)\n\n4 - Clique no ícone '+' para incluir a disciplina na grade.\n![Passo 4](https://github.com/eainegociosdigitais/faq/blob/main/c%20ajuste%204.jpeg?raw=true)\n\n5 - Após essa etapa, serão exibidos o valor da disciplina, as formas de pagamento para a reposição e os dias das turmas disponíveis\n",
+    "tags": [
+      "Reposição",
+      "Reposição de Disciplina"
+    ],
+    "categories": []
   }
 ]
