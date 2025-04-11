@@ -201,5 +201,16 @@
     "categories": [
       "Pagamentos"
     ]
+  },
+  {
+    "id": 15,
+    "slug": "horas-complementares",
+    "description": "As horas complementares fazem parte da graduação e ajudam no desenvolvimento de habilidades além da sala de aula. Saiba mais sobre sua importância!",
+    "question": "Entenda mais sobre: Horas Complementares",
+    "answer": "__HORAS COMPLEMENTARES__\n\nAs __horas complementares__ fazem parte da carga horária total exigida nos cursos de graduação, conforme as diretrizes do Ministério da Educação (MEC). Elas correspondem a atividades extracurriculares que o estudante realiza fora da grade obrigatória do curso, e que contribuem para sua formação acadêmica, cultural e profissional.\n\n__✅ Qual é o objetivo?__\nO principal objetivo das horas complementares é __ampliar a formação do aluno,__ estimulando a autonomia, o senso crítico, a responsabilidade social e a integração com o mundo do trabalho. Essas atividades possibilitam que o estudante vivencie experiências além da sala de aula, enriquecendo sua trajetória acadêmica.\n\n__📝 Exemplos de atividades que podem contar como horas complementares:__\nParticipação em palestras, workshops e congressos;\n\n* Cursos livres e de extensão;\n* Atividades de pesquisa e iniciação científica;\n* Monitorias e estágios não obrigatórios;\n* Projetos de voluntariado;\n* Produção de artigos e participação em eventos acadêmicos;\n* Visitas técnicas e culturais relacionadas ao curso.",
+    "tags": [],
+    "categories": [
+      "Geral"
+    ]
   }
 ]
