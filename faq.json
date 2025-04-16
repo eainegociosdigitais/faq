@@ -212,5 +212,18 @@
     "categories": [
       "Geral"
     ]
+  },
+  {
+    "id": 16,
+    "slug": "como-incluir-minhas-horas-complementares",
+    "description": "Aprenda o passo a passo para lançar suas horas complementares no AVA de forma correta",
+    "question": "Como incluir minhas horas complementares?",
+    "answer": "__Horas Complementares__\n\nPara que suas atividades complementares sejam validadas, é necessário registrá-las corretamente no sistema. Vamos te mostrar como incluir cada atividade no AVA, anexando os documentos exigidos.\n\n__Desktop__\n1 - Ao acessar o seu AVA, clique em Horas Complementares\n\n![Passo 1](https://github.com/eainegociosdigitais/faq/blob/main/horas%20complementares%20acessar.jpg?raw=true)\n\n2 - Clique em Incluir\n![Passo 2](https://github.com/eainegociosdigitais/faq/blob/main/incluir.png?raw=true)\n\n3 - Escolha qual a modalidade da sua hora complementar\n\n*__Atenção__ caso não tenha certeza deve consultar o regulamento das horas complementares*\n\n![Passo 3](https://github.com/eainegociosdigitais/faq/blob/main/Captura%20de%20tela%202025-04-16%20181508.png?raw=true)\n\n4 - Preencha as informações anexe o documento comprovatório e depois clique em incluir\n\n![alt text](https://github.com/eainegociosdigitais/faq/blob/main/informa%C3%A7%C3%B5es.png?raw=true)",
+    "tags": [
+      "Horas Complementares"
+    ],
+    "categories": [
+      "Geral"
+    ]
   }
 ]
