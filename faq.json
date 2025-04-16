@@ -237,5 +237,14 @@
       "Horas Complementares"
     ],
     "categories": []
+  },
+  {
+    "id": 18,
+    "slug": "o-que-sao-as-atividades-de-extensao-na-graduacao",
+    "description": "Descubra o que são atividades de extensão e como elas complementam sua formação acadêmica",
+    "question": "O que são as atividades de extensão na graduação?",
+    "answer": "__Atividades de Extensão__\n\nAs atividades de extensão são ações que conectam a universidade com a comunidade, por meio de projetos, palestras, eventos e serviços. O principal objetivo é aplicar o conhecimento acadêmico para gerar impacto social, promovendo troca de saberes entre alunos e a sociedade.\n\nAs atividades de extensão são obrigatórias para todos os cursos de graduação. Essa exigência está prevista na Resolução nº 7, de 18 de dezembro de 2018, do Ministério da Educação (MEC), que determina que, no mínimo, 10% da carga horária total do curso deve ser composta por atividades de extensão.\n\nEssa regulamentação reforça a importância de uma formação acadêmica mais conectada com a realidade social, incentivando os estudantes a atuarem de forma crítica, participativa e transformadora na comunidade em que estão inseridos.",
+    "tags": [],
+    "categories": []
   }
 ]
