@@ -225,5 +225,17 @@
     "categories": [
       "Geral"
     ]
+  },
+  {
+    "id": 17,
+    "slug": "o-que-sao-as-masterclass",
+    "description": "Entenda o que são as Masterclass, onde encontrá-las e como aproveitá-las como horas complementares",
+    "question": " O que são as Masterclass e como usá-las no curso?",
+    "answer": "__MasterClass__\n\nAs Masterclass são palestras on-line conduzidas por profissionais de destaque em suas áreas de atuação. Com temas atuais e relevantes, essas aulas especiais têm como objetivo aprofundar conhecimentos, apresentar novas perspectivas do mercado e promover a conexão entre teoria e prática.\n\nNa UNIASSELVI, a participação nas Masterclass pode ser registrada como atividade complementar, contribuindo para o cumprimento da carga horária exigida no seu curso.\n\nAlém de fortalecer seu currículo e enriquecer sua trajetória acadêmica, essas experiências proporcionam momentos valiosos de aprendizado e inspiração.\n\n*__Importante:__ para que a Masterclass seja validada como horas complementares, é necessário assistir ao evento ao vivo e preencher a ficha de presença com seus dados acadêmicos corretamente.*",
+    "tags": [
+      "Masterclass",
+      "Horas Complementares"
+    ],
+    "categories": []
   }
 ]
